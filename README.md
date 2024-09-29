@@ -10,9 +10,12 @@ This course provides a unique opportunity for students in the MS in Data Science
 Select a team captain (with or without help from mentor/instructor/supervisor)
 
 Record your names here in this format-
-1. Team captain name, UNI
-2. Member name, UNI
-3. Member name, UNI
+1. Varun Agarwal, va2515
+2. Yu Zheng Lim, yl5451
+3. Atharva Kulkarni, aak2226
+4. Nicolas Cogorna, nac2216
+5. Minh Dang, nd2802
+6. Ryu Sonoda, rs4492
 
 and so on.   
 
