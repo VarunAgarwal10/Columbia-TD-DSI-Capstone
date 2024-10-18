@@ -1,0 +1,16 @@
+﻿Weekly Progress Check-In Instructions:
+Please complete the following questions about your project progress. Keep your response concise, sticking to 1-2 sentences per question. Address each of the points below:
+1. How was the mentor meeting? Was there a good discussion/Did you get your questions answered/requests responded to?
+   It was a good meeting, we shared with her our findings on the EDA and got her feedback. Based on this, we started consolidating our individual EDAs, to start building the baseline models.
+
+2. What has been your individual contribution to the project this week?
+   Completed part of the midterm report, based on  the schedule defined in the group's meeting on Tuesday and Wednesday
+
+3: What has been the group’s overall status and contributions this week?
+We divided our work for this week. One of us (Ryu) was in charge of the final EDA, and the rest of us started working on the midterm report. Two of us (Atharva and Mihn) started writing on the literature review and the rest of us (Varun, Liam and I) on the findings of the EDA.
+
+4. Any challenges or roadblocks?
+Not major challenges, in today meeting we will validate with TD Bank the last decisions on the EDA.
+
+5. Any questions or feedback? 
+No additional questions/feedback
