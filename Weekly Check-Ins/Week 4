@@ -1,0 +1,16 @@
+Weekly Progress Check-In Instructions:
+Please complete the following questions about your project progress. Keep your response concise, sticking to 1-2 sentences per question. Address each of the points below:
+1. How was the mentor meeting? Was there a good discussion? Did you get your questions answered, and were your requests responded to?
+   We shared the results of baseline models and discussed some insights obtained from them such as the importance of features. In addition, there was some data leakage, so we discussed dropping certain columns.
+
+2. What has been your individual contribution to the project this week?
+   Build all the baseline models and tried different preprocessing and feature engineering.
+
+3: What has been the group’s overall status and contributions this week?
+We divided our work. I did all the baseline models and coding. Minh was in charge of an LLM evaluation. Atharva wrote a literature review section in the midterm report.  Nicolas, Varun, and Liam wrote the EDA section. Liam also revised the draft.
+
+4. Any challenges or roadblocks?
+Not major challenges
+
+5. Any questions or feedback? 
+No additional questions/feedback
