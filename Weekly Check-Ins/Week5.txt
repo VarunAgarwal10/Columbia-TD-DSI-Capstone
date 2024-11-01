@@ -1,0 +1,17 @@
+Weekly Progress Check-In Instructions:
+Please complete the following questions about your project progress. Keep your response concise, sticking to 1-2 sentences per question. Address each of the points below:
+1. How was the mentor meeting? Was there a good discussion? Did you get your questions answered, and were your requests responded to?
+   Next plan for model training and cloud usage vas shared. Credit is still pending, so first step is to try the pretrained models.
+
+2. What has been your individual contribution to the project this week?
+   Read on papers for training and model details as well as brainstorm for prompt engineering
+
+3: What has been the group’s overall status and contributions this week?
+Varun created the data dictionary; Liam requested GCP credits. Arthava, Nicholas, and Ryu did research about potential models for training (Bloomberg, Llama, etc.) and discussed the pretrained models. Ryu also tried to test the data on semantic information, batch prediction, performance, output, etc.
+
+4. Any challenges or roadblocks?
+Not major challenges
+
+5. Any questions or feedback? 
+No additional questions/feedback
+
