@@ -1,0 +1,168 @@
+Feature No.,Feature,Feature Description
+1,Total_TL,Total number of trade lines/accounts recorded in the credit bureau for a customer. This includes all types of accounts
+2,Tot_Closed_TL,Total number of trade lines/accounts that have been closed by the customer
+3,Tot_Active_TL,Total number of currently active accounts held by the customer
+4,Total_TL_opened_L6M,Total number of accounts opened by the customer in the last six months
+5,Tot_TL_closed_L6M,Total number of accounts closed by the customer in the last six months
+6,pct_tl_open_L6M,Percentage of accounts that were opened in the last six months compared to the total number of accounts
+7,pct_tl_closed_L6M, Percentage of accounts that were closed in the last six months compared to the total number of accounts
+8,pct_active_tl,Percentage of accounts that are currently active compared to the total number of accounts
+9,pct_closed_tl,Percentage of accounts that are closed compared to the total number of accounts
+10,Total_TL_opened_L12M,Total number of accounts opened by the customer in the last twelve months
+11,Tot_TL_closed_L12M,Total number of accounts closed by the customer in the last twelve months
+12,pct_tl_open_L12M,Percentage of accounts that were opened in the last twelve months compared to the total number of accounts
+13,pct_tl_closed_L12M,Percentage of accounts that were closed in the last twelve months compared to the total number of accounts
+14,Tot_Missed_Pmnt,Total number of payments that have been missed by the customer
+15,Auto_TL,Count of automobile-related credit accounts
+16,CC_TL,Count of credit card accounts
+17,Consumer_TL,Count of accounts for consumer goods
+18,Gold_TL,Count of gold loan accounts
+19,Home_TL,Count of housing loan accounts
+20,PL_TL,Count of personal loan accounts
+21,Secured_TL,Count of secured loans that are backed by collateral
+22,Unsecured_TL,Count of unsecured loans that are not backed by collateral
+23,Other_TL,"Count of the type of account not categorized as credit card,consumer, home, gold, auto, personal, secured or unsecured loan account"
+24,Age_Oldest_TL,Age of the oldest account the customer has opened
+25,Age_Newest_TL,Age of the most recently opened account by the customer
+26,time_since_recent_payment,The amount of time that has passed since the customer made their most recent payment
+27,time_since_first_deliquency,The duration since the customer first experienced a delinquency or missed payment
+28,time_since_recent_deliquency,The duration since the customer last experienced a delinquency or missed payment
+29,num_times_delinquent,Total number of times the customer has been delinquent 
+30,max_delinquency_level,The highest level of delinquency recorded for the customer
+31,max_recent_level_of_deliq,The highest level of delinquency recorded in the recent past
+32,num_deliq_6mts,Total number of delinquencies in the last six months
+33,num_deliq_12mts,Total number of delinquencies in the last twelve months
+34,num_deliq_6_12mts,Number of delinquencies that occurred between six months and twelve months ago
+35,max_deliq_6mts,Maximum level of delinquency recorded in the last six months
+36,max_deliq_12mts,Maximum level of delinquency recorded in the last twelve months
+37,num_times_30p_dpd,Number of times the customer has had a thirty day or more delinquency or days past due
+38,num_times_60p_dpd,Number of times the customer has had a sixty day or more delinquency
+39,num_std,Number of standard payments made by the customer
+40,num_std_6mts,Number of standard payments made in the last six months
+41,num_std_12mts,Number of standard payments made in the last twelve months
+42,num_sub,Number of substandard payments made that are less than the full amount due
+43,num_sub_6mts,Number of substandard payments made in the last six months that are less than the full amount due
+44,num_sub_12mts,Number of substandard payments made in the last twelve months that are less than the full amount due
+45,num_dbt,Number of payments that are doubtful and may not be recovered
+46,num_dbt_6mts,Number of payments in the last six months that are doubtful and may not be recovered
+47,num_dbt_12mts,Number of payments in the last twelve months that are doubtful and may not be recovered
+48,num_lss,Number of accounts classified as loss and are not expected to be collected
+49,num_lss_6mts,Number of loss accounts in the last six months that are not expected to be collected
+50,num_lss_12mts,Number of loss accounts in the last twelve months that are not expected to be collected
+51,recent_level_of_deliq,The most recent level of delinquency recorded
+52,tot_enq,Total number of credit enquiries made by the customer
+53,CC_enq,Total number of credit card-related enquiries
+54,CC_enq_L6m,Number of credit card enquiries in the last six months
+55,CC_enq_L12m,Number of credit card enquiries in the last twelve months
+56,PL_enq,Total number of personal loan-related enquiries
+57,PL_enq_L6m,Number of personal loan enquiries in the last six months
+58,PL_enq_L12m,Number of personal loan enquiries in the last twelve months
+59,time_since_recent_enq,Duration since the customer made a recent credit enquiry
+60,enq_L12m,Total number of enquiries in the last twelve months
+61,enq_L6m,Total number of enquiries in the last six months
+62,enq_L3m,Total number of enquiries in the last three months
+63,AGE,The age of the customer
+64,NETMONTHLYINCOME,The net monthly income of the customer
+65,Time_With_Curr_Empr,Duration the customer has been with their current employer
+66,pct_of_active_TLs_ever,Percentage of accounts that have been active at any point during the customer's credit history
+67,pct_opened_TLs_L6m_of_L12m,Percentage of accounts opened in the last six months compared to those opened in the last twelve months
+68,pct_currentBal_all_TL,Percentage of the current balance owed across all accounts
+69,CC_utilization,"Percentage of credit card utilization, calculated as the amount used compared to the total available credit"
+70,CC_Flag,A flag indicating whether the customer has credit cards
+71,PL_utilization,"Percentage of personal loan utilization, calculated as the amount used compared to the total available credit"
+72,PL_Flag,A flag indicating whether the customer has personal loans
+73,pct_PL_enq_L6m_of_L12m,Percentage of personal loan enquiries in the last six months compared to the last twelve months
+74,pct_CC_enq_L6m_of_L12m,Percentage of credit card enquiries in the last six months compared to the last twelve months
+75,pct_PL_enq_L6m_of_ever,Percentage of personal loan enquiries in the last six months compared to total enquiries ever
+76,pct_CC_enq_L6m_of_ever,Percentage of credit card enquiries in the last six months compared to total enquiries ever
+77,max_unsec_exposure_inPct,Maximum percentage of unsecured credit exposure
+78,HL_Flag,A flag indicating whether the customer has housing loans
+79,GL_Flag,A flag indicating whether the customer has gold loans
+80,time_since_first_deliquency_is_missing,A flag indicating if the time_since_first_deliquency column has the placeholder value of -99999. Flag 1 indicates the presence of -99999 whereas 0 indicates the placeholder value is not present. 
+81,time_since_recent_deliquency_is_missing,A flag indicating if the time_since_recent_deliquency column has the placeholder value of -99999. Flag 1 indicates the presence of -99999 whereas 0 indicates the placeholder value is not present. 
+82,time_since_recent_payment_is_missing,A flag indicating if the time_since_recent_payment column has the placeholder value of -99999. Flag 1 indicates the presence of -99999 whereas 0 indicates the placeholder value is not present. 
+83,Total_TL_opened_L6M_divide_Total_TL,A derived feature calculated by dividing the total number of accounts opened by the customer in the last six months by the total number of trade lines/accounts recorded in the credit bureau for a customer
+84,Tot_TL_closed_L6M_divide_Tot_Closed_TL,A derived feature calculated by dividing the total number of accounts closed by the customer in the last six months by the total number of trade lines/accounts that have been closed by the customer
+85,Total_TL_opened_L12M_divide_Total_TL,A derived feature calculated by dividing the total number of accounts opened by the customer in the last twelve months by the total number of trade lines/accounts recorded in the credit bureau for a customer
+86,Tot_TL_closed_L12M_divide_Tot_Closed_TL,A derived feature calculated by dividing the total number of accounts closed by the customer in the last twelve months by the total number of trade lines/accounts that have been closed by the customer
+87,Tot_Missed_Pmnt_divide_Total_TL,A derived feature calculated by dividing the total number of payments that have been missed by the customer by the total number of trade lines/accounts recorded in the credit bureau for the customer
+88,Secured_TL_divide_Unsecured_TL,A derived feature calculated by dividing the count of secured loans that are backed by collateral for the customer by the count of unsecured loans which are not backed by collateral
+89,CC_TL_divide_Auto_TL,A derived feature calculated by dividing the count of credit card accounts of the customer by the count of automobile-related credit accounts of the customer
+90,PL_TL_divide_Home_TL,A derived feature calculated by dividing the count of personal loan accounts of the customer by the count of home loan accounts of the customer
+91,Age_Oldest_TL_subtract_Age_Newest_TL,A derived feature calculated by getting the difference between the age of the oldest account the customer has opened and the the age of the most recently opened account of the customer
+92,CC_TL_divide_Total_TL,A derived feature calculated by dividing the number of credit card accounts of the customer by the total number of trade lines/accounts recorded in the credit bureau for the customer
+93,Auto_TL_divide_Total_TL,A derived feature calculated by dividing the count of automobile-related credit accounts of the customer by the total number of trade lines/accounts recorded in the credit bureau for the customer
+94,Home_TL_divide_Total_TL,A derived feature calculated by dividing the count of home loan accounts of the customer by the total number of trade lines/accounts recorded in the credit bureau for the customer
+95,PL_TL_divide_Total_TL,A derived feature calculated by dividing the count of personal loan accounts of the customer by the total number of trade lines/accounts recorded in the credit bureau for the customer
+96,Total_TL_opened_L6M_divide_Total_TL_opened_L12M,A derived feature calculated by dividing the total number of accounts opened by the customer in the last six months by the total number of accounts opened by the customer in the last twelve months
+97,Tot_TL_closed_L6M_divide_Tot_TL_closed_L12M,A derived feature calculated by dividing the total number of accounts closed by the customer in the last six months by the total number of accounts closed by the customer in the last twelve months
+98,Consumer_TL_divide_Total_TL,A derived feature calculated by dividing the count of accounts for consumer goods by the total number of trade lines/accounts recorded in the credit bureau for the customer
+99,Other_TL_divide_Total_TL,"A derived feature calculated by dividing the count of accounts of the customer that does not belong to credit card,consumer, home, gold, auto, personal, secured or unsecured loan account by the total number of trade lines/accounts recorded in the credit bureau for the customer"
+100,Tot_Missed_Pmnt_divide_Secured_TL,A derived feature calculated by dividing the total number of payments that have been missed by the customer by the total number of secured loan accounts which are backed by collateral of the customer
+101,num_deliq_6mts_divide_num_deliq_12mts,A derived feature calculated by dividing the total number of delinquencies in the last six months by the total number of delinquencies in the last twelve months
+102,num_sub_6mts_divide_num_sub_12mts,A derived feature calculated by dividing the number of substandard payments made by the customer in the last six months that are less than the full amount due by the number of substandard payments made by the customer in the last twelve months that are less than the full amount due
+103,num_dbt_6mts_divide_num_dbt_12mts,A derived feature calculated by dividing the number of payments made by the customer in the last six months that are doubtful and may not be recovered by the number of payments made by the customer in the last twelve months that are doubtful and may not be recovered
+104,num_lss_6mts_divide_num_lss_12mts,A derived feature calculated by dividing the number of loss accounts of the customer in the last six months that are not expected to be collected by the number of loss accounts in the last twelve months that are not expected to be collected
+105,num_std_6mts_divide_num_std_12mts,A derived feature calculated by dividing the number of standard payments made by the customer in the last six months by the number of standard payments made by the customer in the last twelve months
+106,num_times_30p_dpd_divide_num_times_delinquent,A derived feature calculated by the number of times the customer has had a thirty day or more delinquency or days past due by the total number of times the customer has been delinquent 
+107,num_times_60p_dpd_divide_num_times_delinquent,A derived feature calculated by the number of times the customer has had a sixty day or more delinquency or days past due by the total number of times the customer has been delinquent 
+108,PL_utilization_divide_CC_utilization,A derived feature calculated by dividing the percentage of personal loan utilization by the percentage of credit card utilization
+109,PL_enq_L6m_subtract_PL_enq_L12m,A derived feature calculated by getting the difference between the number of personal loan enquiries made by the customer in the last six months and the number of personal loan enquiries by the customer in the last twelve months
+110,CC_enq_L6m_subtract_CC_enq_L12m,A derived feature calculated by getting the difference between the number of credit card enquiries made by the customer in the last six months and the number of credit card enquiries by the customer in the last twelve months
+111,enq_L3m_divide_enq_L6m,A derived feature calculated by dividing the total number of enquiries made by the customer in the last three months by the total number of enquiries made in the last six months by the customer
+112,enq_L6m_divide_enq_L12m,A derived feature calculated by dividing the total number of enquiries made by the customer in the last six months by the total number of enquiries made in the last twelve months by the customer
+113,max_deliq_6mts_divide_max_deliq_12mts,A derived feature calculated by dividing the maximum level of delinquency recorded in the last six months for the customer by the maximum level of delinquency recorded in the last twelve months for the customer
+114,recent_level_of_deliq_divide_max_delinquency_level,A derived feature calculated by dividing the the most recent level of delinquency recorded for the customer by the highest level of delinquency recorded for the customer
+115,num_times_delinquent_divide_tot_enq,A derived feature calculated by dividing the total number of times the customer has been delinquent by the total number of credit enquiries made by the customer
+116,MARITALSTATUS_Married,"The flag which signifies the marital status of the customer. If the value of the flag is 1, the customer is married and is not single"
+117,MARITALSTATUS_Single,"The flag which signifies the marital status of the customer. If the value of the flag is 1, the customer is not married and is single"
+118,EDUCATION_12TH,"The flag which signifies the education qualification of the customer. If the value of the flag is 1, the customer has an education qualification of a student who has passed the 12th board examinations"
+119,EDUCATION_GRADUATE,"The flag which signifies the education qualification of the customer. If the value of the flag is 1, the customer has an education qualification of a graduate student"
+120,EDUCATION_OTHERS,"The flag which signifies the education qualification of the customer. If the value of the flag is 1, the customer has an education qualification of Others"
+121,EDUCATION_POST-GRADUATE,"The flag which signifies the education qualification of the customer. If the value of the flag is 1, the customer has an education qualification of a post graduate student"
+122,EDUCATION_PROFESSIONAL,"The flag which signifies the education qualification of the customer. If the value of the flag is 1, the customer has an education qualification of a working professional and is not a student"
+123,EDUCATION_SSC,"The flag which signifies the education qualification of the customer. If the value of the flag is 1, the customer has an education qualification of a student who has passed the secondary school examination"
+124,EDUCATION_UNDER GRADUATE,"The flag which signifies the education qualification of the customer. If the value of the flag is 1, the customer has an education qualification of an undergraduate student"
+125,GENDER_F,"The gender flag for the customer. If the value of the flag is 1, the customer is a female customer"
+126,GENDER_M,"The gender flag for the customer. If the value of the flag is 1, the customer is a male customer"
+127,last_prod_enq2_AL,"The flag which signifies the most recent product for which the customer has made an enquiry for.  If the value of the flag is 1, the customer has made an enquiry for automobile loan"
+128,last_prod_enq2_CC,"The flag which signifies the most recent product for which the customer has made an enquiry for.  If the value of the flag is 1, the customer has made an enquiry for credit card related loan"
+129,last_prod_enq2_ConsumerLoan,"The flag which signifies the most recent product for which the customer has made an enquiry for.  If the value of the flag is 1, the customer has made an enquiry for consumer loan"
+130,last_prod_enq2_HL,"The flag which signifies the most recent product for which the customer has made an enquiry for.  If the value of the flag is 1, the customer has made an enquiry for Home loan"
+131,last_prod_enq2_PL,"The flag which signifies the most recent product for which the customer has made an enquiry for.  If the value of the flag is 1, the customer has made an enquiry for Personal loan"
+132,last_prod_enq2_others,"The flag which signifies the most recent product for which the customer has made an enquiry for.  If the value of the flag is 1, the customer has made an enquiry for a loan that is not auto, personal, credit card, consumer or home loan"
+133,first_prod_enq2_AL,"The flag which signifies the the first product for which the customer made an enquiry for. If the value of the flag is 1, the customer has made an enquiry for automobile loan"
+134,first_prod_enq2_CC,"The flag which signifies the the first product for which the customer made an enquiry for. If the value of the flag is 1, the customer has made an enquiry for credit card related loan"
+135,first_prod_enq2_ConsumerLoan,"The flag which signifies the the first product for which the customer made an enquiry for. If the value of the flag is 1, the customer has made an enquiry for consumer loan"
+136,first_prod_enq2_HL,"The flag which signifies the the first product for which the customer made an enquiry for. If the value of the flag is 1, the customer has made an enquiry for home loan"
+137,first_prod_enq2_PL,"The flag which signifies the the first product for which the customer made an enquiry for. If the value of the flag is 1, the customer has made an enquiry for personal loan"
+138,first_prod_enq2_others,"The flag which signifies the the first product for which the customer made an enquiry for. If the value of the flag is 1, the customer has made an enquiry for a loan that is not auto, personal, credit card, consumer or home loan"
+139,Approved_Flag,"The flag which signifies if loan is approved for the customer or not. If the value of the flag is 1 then the customer is a least risk customer and loan is approved. Else, the customer is a high risk customer and loan cannot be approved for the customer"
+140,MARITALSTATUS,"Marital status of the individual, encoded as integers:
+ - Married = 0
+ - Single = 1."
+141,EDUCATION,"Education level of the individual, encoded as integers:
+ - 12TH = 0 (Education qualification of a student who has passed the 12th board examinations)
+ - GRADUATE = 1 (Graduate level education qualification)
+ - OTHERS = 2 (Education qualification marked as 'Others')
+ - POST-GRADUATE = 3 (Education qualification of a post-graduate student)
+ - PROFESSIONAL = 4 (Qualification indicating the individual is a working professional)
+ - SSC = 5 (Education qualification of a student who passed secondary school)
+ - UNDER GRADUATE = 6 (Undergraduate level qualification)."
+142,GENDER,"Gender of the individual, encoded as integers:
+ - F = 0 (Female)
+ - M = 1 (Male)."
+143,last_prod_enq2,"Most recent product inquiry by the individual, encoded as integers:
+ - AL = 0 (Automobile loan)
+ - CC = 1 (Credit card loan)
+ - ConsumerLoan = 2 (Consumer loan)
+ - HL = 3 (Home loan)
+ - PL = 4 (Personal loan)
+ - others = 5 (Other types of loans)."
+144,first_prod_enq2,"First product inquiry by the individual, encoded as integers:
+ - AL = 0 (Automobile loan)
+ - CC = 1 (Credit card loan)
+ - ConsumerLoan = 2 (Consumer loan)
+ - HL = 3 (Home loan)
+ - PL = 4 (Personal loan)
+ - others = 5 (Other types of loans)."

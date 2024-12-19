@@ -1,0 +1,24 @@
+Column,Original_Label,Encoded_Label
+MARITALSTATUS,Married,0
+MARITALSTATUS,Single,1
+EDUCATION,12TH,0
+EDUCATION,GRADUATE,1
+EDUCATION,OTHERS,2
+EDUCATION,POST-GRADUATE,3
+EDUCATION,PROFESSIONAL,4
+EDUCATION,SSC,5
+EDUCATION,UNDER GRADUATE,6
+GENDER,F,0
+GENDER,M,1
+last_prod_enq2,AL,0
+last_prod_enq2,CC,1
+last_prod_enq2,ConsumerLoan,2
+last_prod_enq2,HL,3
+last_prod_enq2,PL,4
+last_prod_enq2,others,5
+first_prod_enq2,AL,0
+first_prod_enq2,CC,1
+first_prod_enq2,ConsumerLoan,2
+first_prod_enq2,HL,3
+first_prod_enq2,PL,4
+first_prod_enq2,others,5
